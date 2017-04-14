@@ -59,7 +59,7 @@ const customText = {
 }
 
 Smooch.init({
-  appToken: '47lsspv44aupz9nym21ijzh6r',
+  appToken: '',
   customText
 })
 
